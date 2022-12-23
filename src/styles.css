@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.content-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.2rem;
+}
+
+.tab-conatiner {
+  display: flex;
+  flex-direction: column;
+}
+
+.partition-line {
+  border-right: 2px solid #6d6d6d;
+  height: auto;
+  padding-left: 1rem;
+}
+
+.btn {
+  padding: 0.5em;
+  cursor: pointer;
+  border: none;
+  box-shadow: 2px 5px #6d6d6d;
+}
